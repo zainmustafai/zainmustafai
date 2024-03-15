@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @zainmustafai<br> 👀 I’m interested in MERN Stack Web Development<br> 🌱 I’m currently learning React Native<br>💞️ I’m looking to collaborate on ReactJS & NEXT JS Projects
+👋 Hi, I’m @zainmustafai<br> 👀 I’m interested in MERN Stack Web Development<br> 🌱 I’m currently learning NEXT JS + TS<br>💞️ I’m looking to collaborate on ReactJS & NEXT JS Projects
 
 
 ## 🌐 Socials:
