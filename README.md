@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zainmustafai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainmustafai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<br/>
+<a href="https://app.daily.dev/zforzain2000"><img src="https://api.daily.dev/devcards/v2/LHujisGdTxHFxPKvntGj3.png?type=default&r=con" width="356" alt="MUHAMMAD ZAIN UL ABIDIN's Dev Card"/></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=zainmustafai&icon=0&color=0)](https://visitcount.itsvg.in)
 
