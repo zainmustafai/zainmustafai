@@ -14,6 +14,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=zainmustafai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://app.daily.dev/zforzain2000"><img src="https://api.daily.dev/devcards/v2/LHujisGdTxHFxPKvntGj3.png?type=default&r=con" width="356" alt="MUHAMMAD ZAIN UL ABIDIN's Dev Card"/></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
