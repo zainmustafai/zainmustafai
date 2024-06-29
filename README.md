@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Frontend Engineer
 ------------------------
 
-I'm passionate about coding and problem-solving, and I'm thrilled to be part of a fast-paced and innovative environment where my contributions have a meaningful impact on millions of developers worldwide. Joining GitHub has been an incredible opportunity for growth and development, and I'm excited to continue making a difference in the software engineering community.
+I'm passionate about coding and problem-solving, and I'm thrilled to be part of a fast-paced and innovative environment where my contributions have a meaningful impact. Joining GitHub has been an incredible opportunity for growth and development, and I'm excited to continue making a difference in the software engineering community.
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [Zain-Portfolio](http://zainmustafai.vercel.app/reactifier)
