@@ -9,7 +9,7 @@ I'm passionate about coding and problem-solving, and I'm thrilled to be part of 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [Zain-Portfolio](http://zainmustafai.vercel.app/reactifier)
 * ✉️  You can contact me at [zforzain2000@gmail.com](mailto:zforzain2000@gmail.com)
-* 🚀  I'm currently working on [A.I Agents](https://agent.buildaierc.com/)
+* 🚀  I'm currently working on [Otrip.IO](https://otrip.io/)
 * 🧠  I'm learning Next.JS & TypeScript
 * 🤝  I'm open to collaborating on React.JS Projects
 * ⚡  On a mission to convert coffee into code.
